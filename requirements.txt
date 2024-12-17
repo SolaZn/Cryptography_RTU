@@ -1,0 +1,10 @@
+# requirements.txt
+
+# Streamlit for creating the web application
+streamlit==1.41.1
+
+# SymPy for mathematical operations and prime number generation
+sympy==1.13.3
+
+# Additional dependencies
+numpy>2.0.0
